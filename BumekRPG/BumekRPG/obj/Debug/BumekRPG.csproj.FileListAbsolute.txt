@@ -1,0 +1,6 @@
+C:\Users\Bumek662\Desktop\Projects\C#\BumekRPG\BumekRPG\bin\Debug\BumekRPG.exe.config
+C:\Users\Bumek662\Desktop\Projects\C#\BumekRPG\BumekRPG\bin\Debug\BumekRPG.exe
+C:\Users\Bumek662\Desktop\Projects\C#\BumekRPG\BumekRPG\bin\Debug\BumekRPG.pdb
+C:\Users\Bumek662\Desktop\Projects\C#\BumekRPG\BumekRPG\obj\Debug\BumekRPG.csprojResolveAssemblyReference.cache
+C:\Users\Bumek662\Desktop\Projects\C#\BumekRPG\BumekRPG\obj\Debug\BumekRPG.exe
+C:\Users\Bumek662\Desktop\Projects\C#\BumekRPG\BumekRPG\obj\Debug\BumekRPG.pdb
